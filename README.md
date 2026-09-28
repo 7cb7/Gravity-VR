@@ -3,7 +3,7 @@
 An educational virtual reality experience that teaches the abstract concept of gravity through three scenes (Moon and Earth, Solar System, Black Hole) and an in-headset quiz. Built for the Meta Quest 2 as my CM3070 Final Project.
 
 ## Built with
-- Unity 6.3 
+- Unity 6000.3 
 - Universal Render Pipeline
 - XR Interaction Toolkit
 - Target platform: Android (Meta Quest 2)
