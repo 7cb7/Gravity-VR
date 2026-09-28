@@ -94,3 +94,9 @@ crashlytics-build.properties
 # Builds
 *.apk
 /Builds/
+
+# Mac and editor files
+.DS_Store
+.vscode/
+*.slnx
+mono_crash*
